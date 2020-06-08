@@ -13,7 +13,7 @@
     <!--Menu de navegacion -->
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
-    <link rel="stylesheet" href="css/estilos.css"> <!-- siempre mis estilos al final-->
+    <link rel="stylesheet" href="css/style.css"> <!-- siempre mis estilos al final-->
     <title>Sobre mi</title>
 </head>
 

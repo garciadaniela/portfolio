@@ -19,12 +19,14 @@ body {
 }
 .navbar  {
     padding: 0 7%;
-    margin-top: 12px;
-
+    margin-top: 15px;
 }
+
+
 .navbar-toggler-icon{
     border: 1px solid #797676;
     border-radius: 3px;
+    
 }
 .img2 {
     background-image: url("../images/fondomenu.png");
@@ -67,6 +69,7 @@ body {
     
 
 }
+
 #sobremi p{
     color: rgb(45, 45, 45);
     font-weight: 600;
@@ -83,6 +86,10 @@ body {
 #experiencia h3 {
     font-size: 22px;
 
+}
+#experiencia {
+    background-color: rgb(45, 45, 45);
+    color: white;
 }
 /*habilidades*/
 .habilidades{
@@ -164,6 +171,9 @@ body {
     width: 130px;
     height: 35px;
 }
+#contacto i{
+    font-size: 90px;
+}
 .btn:hover{
     background-color: white;
     color: black;
@@ -171,7 +181,8 @@ body {
 footer{
     background-color: white;
     color: black;
-    margin-top: 30px;
+    
+    
 
 }
 footer a{
@@ -191,7 +202,7 @@ footer a{
     border-radius: 80px;
     margin: 0 15px
 }
-@media (max-width: 700px){
+@media (max-width: 900px){
     #contacto h1{
         font-size: 45px;
        
@@ -200,4 +211,51 @@ footer a{
         font-size: 20px;
     }
 
+    #home h1, h2{
+        font-size: 45px;
+    }
+    #home span{
+        font-size: 45px;
+    }
+    #footer{
+        display: none;
+    }
+    .habilidadesCard h2{
+        font-size: 20px;
+
+    }
+    #proyecto h1{
+        font-size: 20px;
+       
+    }
+    #proyecto h2{
+        font-size: 25px;
+       
+    }
+  
+
 }
+@media (min-width: 900px){
+    #footer2{
+        display: none;
+        
+        
+    }
+
+}
+
+#footer2{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 122px;
+    
+}
+
+
+
+
+
+
+    
+  
+

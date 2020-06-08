@@ -13,7 +13,7 @@
     <!--Menu de navegacion -->
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
-    <link rel="stylesheet" href="css/estilos.css"> <!-- siempre mis estilos al final-->
+    <link rel="stylesheet" href="css/style.css"> <!-- siempre mis estilos al final-->
     <title>Inicio</title>
 </head>
 <body class="img2">
@@ -36,12 +36,16 @@
                 <span>Hola!</span>
             <h1>  Bienvenido a mi web </h1>
             <h2> Desarrolladora web full stack.</h2>
-            <a href="#" class="btn"> Ver mis proyectos</a>
+            <a href="portfolio.php" class="btn"> Ver mis proyectos</a>
             </div>
 
         </div>
     </section>
     </div>
+</div>
+
+<div>
+    
 </div>
 
 

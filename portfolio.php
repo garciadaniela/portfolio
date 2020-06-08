@@ -14,7 +14,7 @@
     <!--Menu de navegacion -->
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
-    <link rel="stylesheet" href="css/estilos.css"> <!-- siempre mis estilos al final-->
+    <link rel="stylesheet" href="css/style.css"> <!-- siempre mis estilos al final-->
     <title>Proyectos</title>
 </head>
 
@@ -43,7 +43,27 @@
             <div class="row">
                 <div class="col-sm-6 col-12 pr-3">
                     <div class="bg-white">
-                    <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid">
+                    <img src="images/cliente.png" alt="ABM Ventas" class="img-fluid">
+                    <div class="col-12">
+                        <h3>ABM Clientes</h3>
+                    </div> 
+                    <div class="col-12 my-4">
+                        <p> Alta, baja y modificación de un registro de clientes empleando. Realizado en HTML, CSS, PHP, Bootstrap y Json.</p>
+                    </div>
+                    <div class="row p-3">
+                    <div class="col-6">
+                        <a href="https://danielagarcia.com.ar/abmclientes/index.php" class="btn" target="_blank"> Ver online</a>
+                    </div>
+                    <div class="col-6 text-right">
+                        <a href="https://github.com/garciadaniela/abmclientes" target="_blank"> Código fuente</a>
+
+                    </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-12 pr-3">
+                    <div class="bg-white">
+                    <img src="images/abmventa.PNG" alt="ABM Ventas" class="img-fluid">
                     <div class="col-12">
                         <h3>ABM Ventas</h3>
                     </div> 
@@ -52,16 +72,16 @@
                     </div>
                     <div class="row p-3">
                     <div class="col-6">
-                        <a href="#" class="btn" target="_blank"> Ver online</a>
+                        <a href="https://danielagarcia.com.ar/abmventas/login.php" class="btn" target="_blank"> Ver online</a>
                     </div>
                     <div class="col-6 text-right">
-                        <a href="#" target="_blank"> Código fuente</a>
+                        <a href="https://github.com/garciadaniela/abmventas" target="_blank"> Código fuente</a>
 
                     </div>
                     </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-12 pl-3 mt-4 mt-sm-0">
+                <div class="col-sm-6 col-12 pl-3 py-2 mt-4 mt-sm-0">
                     <div class="bg-white">
                     <img src="images/sistema-admin.png" alt="sistema-admin" class="img-fluid">
                     <div class="col-12">
@@ -81,6 +101,8 @@
                     </div>
                     </div>
                 </div>
+
+                
             </div>
 
 
@@ -93,7 +115,6 @@
 
 
     ?>
-    
     
       </footer>
 </body>

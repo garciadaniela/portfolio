@@ -16,7 +16,7 @@
   <!--Menu de navegacion -->
   <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
   <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
-  <link rel="stylesheet" href="css/estilos.css"> <!-- siempre mis estilos al final-->
+  <link rel="stylesheet" href="css/style.css"> <!-- siempre mis estilos al final-->
   <title>Contacto</title>
 </head>
 
@@ -32,7 +32,7 @@
   <section id="contacto">
     <div class="container">
       <div class="row">
-        <div class="col-12 py-5 text-center">
+        <div class="col-12 px-3 py-5 text-center">
           <h1>
             Gracias por tu consulta, te responderemos a la brevedad.
           </h1>

@@ -12,9 +12,7 @@
     <div class="col-sm-4 col-12 text-sm-right text-center">
       Patrocinado por <br> <a href="https://depcsuite.com/?v=d72a48a8ebd2" target="_blank"> DePC Suite</a>
     </div>
-
   </div>
-
 </div>
 
 <div class="container-fluid" id="footer2">

@@ -35,7 +35,7 @@
 
             </div>
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 py-4">
                     <h2> Estos son algunos de los trabajos que he realizado:</h2>
                 </div>
 
@@ -81,7 +81,7 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-12 pl-3 py-2 mt-4 mt-sm-0">
+                <div class="col-sm-6 col-12 pl-3 py-4 mt-4 mt-sm-0">
                     <div class="bg-white">
                     <img src="images/sistema-admin.png" alt="sistema-admin" class="img-fluid">
                     <div class="col-12">

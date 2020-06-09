@@ -36,10 +36,10 @@
                     <p>
                         Desarrolladora Web Full Stack en desarrollo. Soy una persona emprendedora, que adora los retos y no se rinde fácilmente, cada día se aprende algo nuevo.
                     </p>
-                    <a href="#" class="btn" target="_blank"> Descargar CV</a>
+                    <a href="/pdfs/DanielaGarcia.pdf" download="DanielaGarcia" class="btn" target="_blank"> Descargar CV</a>
                 </div>
                 <div class="col-sm-6 col-12 order-1 order-sm-2">
-                    <img src="images/daniela.jpg" alt="Foto de perfil" class="rounded-circle" style="margin-left: 85px; width: 60%;">
+                    <img src="images/perfil.jpeg" alt="Foto de perfil" class="rounded-circle" style="margin-left: 85px; width: 60%;">
                 </div>
             </div>
         </div>
@@ -95,14 +95,18 @@
             </div>
             <div class="row py-3">
                 <div class="col-12 col-sm-2 pl-4">
-                    <h2> 2011-PRESENTE <br> Buenos aires</h2>
+                    <h2> 2019-PRESENTE <br> Buenos aires</h2>
                 </div>
                 <div class="col-12 col-sm-2 pl-4">
-                    <h3> EMPRESA </h3>
+                    <h3 style="text-align: center;"> <img src="images/cuesta-blanca-logo.png" alt="Cuesta Blanca" width="80px"> </h3>
 
                 </div>
                 <div class="col-12 col-sm-8 pl-4">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore molestias suscipit repellendus cum iusto, facilis amet possimus expedita explicabo rerum numquam totam eius, magni id pariatur. Cupiditate consequuntur illo neque.</p>
+                    <p>Cajera Administrativa <br> Apertura y cierre de caja,
+                        Manejo del sistema Quick Post,
+                        Control de stock y del ingreso y egreso de mercadería,
+                        Manejo de gmail, excel y word,
+                        Atención al cliente.</p>
 
                 </div>
             </div>
